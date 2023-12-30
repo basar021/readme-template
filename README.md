@@ -129,7 +129,7 @@ https://mrwebcoder.com
 
 <br>
 
-<img src="./bashar.JPG" width="400" title="profile image"/>
+<img src="bashar.JPG" width="400" title="profile image"/>
 
 ## Adding Emoji
 
