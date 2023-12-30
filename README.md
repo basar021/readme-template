@@ -125,7 +125,7 @@ https://mrwebcoder.com
 
 ## Image syntax
 
-![profile](../img/Screenshot_157.png)
+![profile](../img/Screenshot_157.PNG)
 
 <br>
 
