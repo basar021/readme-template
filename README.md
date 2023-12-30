@@ -125,11 +125,11 @@ https://mrwebcoder.com
 
 ## Image syntax
 
-![profile](../img/Screenshot_157.PNG)
+![profile](./img/Screenshot_157.PNG)
 
 <br>
 
-<img src="../img/Screenshot_157.PNG" width="400" title="profile image"/>
+<img src="./img/Screenshot_157.PNG" width="400" title="profile image"/>
 
 ## Adding Emoji
 
